@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TokiMagrosse
-- 👀 I’m interested in creating game apps (but for now).
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning Java, Physics, Math, English.
-- 💞️ I’m looking to collaborate on GitHub and Google Play.
-- 📫 How to reach my GOALS.
+- 💞️ I’m looking to collaborate with famous people.
+- 📫 I should reach my main GOAL (no one knows except me).
 - 😄 Pronouns: So Am I
 - ⚡ Fun fact: I have been swimming since I was 2 years old.
 
