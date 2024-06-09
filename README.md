@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java, Physics, Math, English.
 - 💞️ I’m looking to collaborate with famous people.
 - 📫 I should reach my main GOAL (no one knows except me).
-- 😄 Favourite songs: BOY, Attention, One Call Away, So Am I, Left Right Left, See You Again, We All Want The Same Thing, Wait On Me, ...
+- 😄 Favourite songs: BOY, Attention, One Call Away, Left Right Left, See You Again, We All Want The Same Thing, Wait On Me, ...
 - ⚡ Fun fact: I have been swimming since I was 2 years old.
 
 <!---
