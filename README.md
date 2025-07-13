@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @TokiMagrosse
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java, Physics, Math, English.
-- 💞️ I’m looking to collaborate with famous people.
-- 📫 I should reach my main GOAL (no one knows except me).
-- 😄 Favourite songs: BOY, Attention, One Call Away, Left Right Left, See You Again, We All Want The Same Thing, Wait On Me, ...
-- ⚡ Fun fact: I have been swimming since I was 2 years old.
+- 👋 Hey there, I’m @TokiMagrosse
+- 👀 I’m passionate about programming and all things tech.
+- 🌱 Currently on a journey to learn how to learn — mastering the process itself.
+- 💞️ I'm eager to collaborate with influential figures in the industry and grow through meaningful projects.
+- 📫 I’m working toward my main GOAL — what it is, only I know 😉.
+- 😄 Favorite songs: [Check it out on Spotify](https://open.spotify.com/playlist/4UdwzbFkCQVALFZQb70kjJ?si=2ea618a751654656)
+- ⚡ Fun fact: I’ve been swimming since I was 3 years old — water is basically my second home!
 
 <!---
 TokiMagrosse/TokiMagrosse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
